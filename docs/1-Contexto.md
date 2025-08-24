@@ -4,14 +4,15 @@ O acesso ao conhecimento é um direito fundamental, mas ainda existem barreiras 
 O EduTroca surge como uma plataforma online que conecta pessoas dispostas a ensinar e aprender de forma gratuita, criando uma rede de colaboração mútua. O projeto busca promover a inclusão digital, incentivar a troca de saberes e fortalecer a ideia de que todos têm algo a ensinar e algo a aprender. 
 
 ## 1.1 Problema  
-Descreva **claramente** o problema que o sistema vai resolver.  
-- Qual situação precisa ser melhorada?  
-- Onde e por quem essa solução será usada?  
+Atualmente, muitas pessoas desejam aprender novas habilidades ou aprimorar conhecimentos, mas enfrentam dificuldades como: 
 
-> 💡 *Exemplo:*  
-> "Pequenos hortifrutis enfrentam dificuldades para controlar estoques e evitar desperdícios, pois usam planilhas manuais que geram erros e    retrabalho."
+* Falta de recursos financeiros para pagar cursos. 
+* Poucas oportunidades de troca de conhecimento de forma gratuita e organizada. 
+* Falta de plataformas que unam diferentes áreas de interesse em um só lugar. 
 
----
+Por outro lado, há também muitas pessoas que possuem conhecimentos valiosos e gostariam de compartilhá-los, mas não encontram um espaço estruturado para oferecer aulas ou dicas de forma simples e acessível. 
+
+O EduTroca resolve esse problema ao criar um ambiente virtual onde qualquer pessoa pode oferecer e participar de aulas, conectando quem quer ensinar com quem quer aprender, sem custos e com foco na colaboração. 
 
 ## 1.2 Objetivos  
 Defina o **objetivo geral** (o que o projeto como um todo pretende) e pelo menos **2 objetivos específicos** (detalhes ou etapas importantes).
