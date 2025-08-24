@@ -1,25 +1,28 @@
-# TÍTULO DO PROJETO
+# EDU TROCA
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Trabalho Interdisciplinar: Aplicações Inovadoras`
 
-`SEMESTRE`
+`5º período`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto EduTroca consiste no desenvolvimento de uma plataforma web gratuita voltada para a troca de conhecimentos de forma colaborativa. A proposta é conectar pessoas que desejam aprender a novas habilidades com aquelas que estão dispostas a ensinar, criando uma rede inclusiva e acessível. Por meio do sistema, usuários poderão se cadastrar como professores ou alunos, oferecer ou participar de aulas em diversas áreas de interesse e interagir através de ferramentas de comunicação integradas.
 
-ODS Alinhados:
+A iniciativa busca reduzir barreiras de acesso à educação, promovendo inclusão digital e incentivando a aprendizagem contínua. Além de estimular a valorização dos saberes individuais, o EduTroca contribui para democratizar o conhecimento, fortalecendo a ideia de que todos têm algo a ensinar e a aprender.
+
+ODS Alinhados: ODS 4 – Educação de Qualidade
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Adrielly Coelho Juliao
+* Antônio Henrique Bertolini Vidal
+* Débora Pereira Fonseca
+* Geovanna Morales de Oliveira
+* Richard Luiz de Oliveira
 
 ## Orientador
 
-* Nome completo do professor 1
+* Juliana Padilha
 
 ## Instruções de utilização
 
