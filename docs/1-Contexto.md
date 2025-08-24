@@ -1,8 +1,7 @@
 # 1. Introdução
+O acesso ao conhecimento é um direito fundamental, mas ainda existem barreiras que dificultam a aprendizagem para muitas pessoas, seja por questões financeiras, geográficas ou tecnológicas. Com o avanço da internet e das ferramentas digitais, novas formas de ensino e aprendizagem colaborativa têm surgido, permitindo que qualquer pessoa possa compartilhar o que sabe e aprender com outras, independentemente de sua localização. 
 
-Nesta seção, você vai apresentar **o contexto e a motivação do seu projeto**, explicando o problema que ele resolve, o que pretende alcançar e para quem ele é útil.
-
----
+O EduTroca surge como uma plataforma online que conecta pessoas dispostas a ensinar e aprender de forma gratuita, criando uma rede de colaboração mútua. O projeto busca promover a inclusão digital, incentivar a troca de saberes e fortalecer a ideia de que todos têm algo a ensinar e algo a aprender. 
 
 ## 1.1 Problema  
 Descreva **claramente** o problema que o sistema vai resolver.  
