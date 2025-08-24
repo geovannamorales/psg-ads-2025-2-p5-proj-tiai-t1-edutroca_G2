@@ -1,4 +1,4 @@
-# EDU TROCA
+# EduTroca
 
 `Análise e Desenvolvimento de Sistemas`
 
