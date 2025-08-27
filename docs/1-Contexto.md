@@ -25,13 +25,13 @@ Defina o **objetivo geral** (o que o projeto como um todo pretende) e pelo menos
 
 ---
 
-## 1.3 Justificativa  
-Explique **por que** vale a pena desenvolver este projeto.  
-- Quais benefícios trará?  
-- Quais dados ou fatos comprovam que o problema existe?  
+## 1.3 Justificativa
 
->💡 *Exemplo:*  
-"Segundo dados da FAO, 30% dos alimentos se perdem no transporte e armazenamento. Nosso sistema ajudará a reduzir perdas e desperdícios."
+O desenvolvimento deste projeto é fundamental em um cenário onde o acesso à educação de qualidade ainda é desigual. A plataforma ataca diretamente as barreiras financeiras, geográficas e organizacionais que dificultam muitas pessoas de adquirir novas competências, promovendo um ecossistema de aprendizado baseado na colaboração e na valorização do saber individual e coletivo.
+
+A plataforma gera benefícios claros para a comunidade. Para quem aprende, ela oferece o acesso gratuito e flexivel a uma gama de conhecimentos, permitindo o desenvolvimento pessoal e a qualificação para o mercado de trabalho. Já para quem ensina, é uma oportunidade de gerar impacto social positivo, desenvolver habilidades didáticas e compartilhar sua paixão e experiência. Como resultado, a sociedade se beneficia com a redução da desigualdade educacional, o fomento à cultura de colaboração e o estímulo à inclusão digital.
+
+A necessidade de uma solução como o EduTroca é evidenciada pelo alto custo e rigidez da educação formal. No Brasil, cursos de especialização podem ter custos proibitivos para grande parte da população. Ao mesmo tempo, pesquisas sobre o futuro do trabalho, como as do Fórum Econômico Mundial, apontam a necessidade constante de requalificação e aprimoramento de habilidades. O EduTroca se posiciona como uma resposta direta a essa demanda, oferecendo uma alternativa gratuita, acessível e flexível.
 
 ---
 
