@@ -49,6 +49,8 @@ O quadro está organizado em colunas que representam as etapas do fluxo de traba
 - **Fila para Teste**: tarefas finalizadas no desenvolvimento e aguardando testes.  
 - **Teste**: tarefas em validação.  
 - **Feito**: tarefas concluídas.
+- <img width="1581" height="675" alt="image" src="https://github.com/user-attachments/assets/ddcb01b9-c459-48df-a817-b9dc0acfeed0" />
+
 
 > **Importante:** A coluna *Implantar* não será utilizada neste trabalho, pois não faz parte do escopo do Projeto Extensão, mas caso o aluno resolva implantar na empresa/ONG para o qual desenvolveu, gentileza informar no quadro Kanban.
 
