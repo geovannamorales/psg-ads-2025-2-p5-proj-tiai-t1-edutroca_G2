@@ -29,10 +29,10 @@ Durante o projeto, um integrante será escolhido como **Líder do Grupo** em cad
 
 ### Exemplo – da Definição dos Papéis na Sprint 1, Sprint 2, Sprint 3 e Sprint 4
 
-- **Líder do Grupo**: Aluna x  
-- **Front-end**: Aluno y  
-- **Back-end**: Aluno K  
-- **Apoio Geral**: Aluna Z  
+- **Líder do Grupo**: Richard Luiz
+- **Front-end**: Debora Fonseca e Geovanna Morales
+- **Back-end**: Antônio Bertolini
+- **Apoio Geral**: Adrielly Julião  
 
 > ✏️ _Se necessário podem alterar os papéis em CADA Sprint, mas você deverá informar repetindo o quadro anterior e separar por Sprint_
 ---
@@ -103,11 +103,11 @@ _O grupo poderá usar esta parte para informar a professora quais tarefas estão
 
 | Responsável | Função no Grupo | Tarefa | Início | Prazo | Status | Entrega |
 |-------------|------------------|--------|--------|--------|--------|---------|
-| AlunoX | Líder | Agendar e conduzir entrevista com o cliente | 29/07 | 02/08 | ✔️ | Link/print |
-| AlunoY | Redator | Preencher roteiro da entrevista no repositório | 30/07 | 03/08 | ✔️ | README.md |
-| AlunaZ | Relatora | Descrever o contexto da empresa e os problemas atuais | 01/08 | 05/08 | ✔️ | README.md |
-| AlunoK | Escritor técnico | Redigir proposta de sistema com base nos dados | 05/08 | 08/08 | ✔️ | README.md |
-| Todos | Organização | Conferir e revisar o conteúdo publicado no GitHub | 08/08 | 16/08 | ✔️ | Repositório Git |
+| Richard Luiz | Líder | Organizar reunião inicial para definição do escopo e objetivos do EduTroca | 21/08 | 28/08 | ✔️ | Link/print |
+| Debora Fonseca | Front-end | Contribuir na descrição do contexto do projeto e do problema identificado | 21/07 | 28/08 | ✔️ | README.md |
+| Geovanna Morales | Front-end | Contribuir na descrição do contexto do projeto e do problema identificado | 21/08 | 28/08 | ✔️ | README.md |
+| Antônio Bertolini | Back-end | Apoiar na definição técnica inicial e contribuir na proposta de soluçãos | 21/08 | 28/08 | ✔️ | README.md |
+| Adrielly Julião | Organização | Contribuir, conferir e revisar o conteúdo publicado no repositório | 21/08 | 28/08 | ✔️ | Repositório Git |
 
 ---
 
