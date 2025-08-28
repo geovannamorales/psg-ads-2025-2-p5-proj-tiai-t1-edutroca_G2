@@ -38,11 +38,13 @@ A necessidade de uma solução como o EduTroca é evidenciada pelo alto custo e 
 
 ## 1.4 Público-Alvo
 
-O público da plataforma é diverso e composto por dois grupos principais que se conectam através da troca de conhecimento:
+O EduTroca é voltado para: 
 
-- **Quem Aprende:** Jovens estudantes, profissionais em busca de novas competências, ou qualquer pessoa curiosa que deseja aprender algo novo sem custo. Possuem familiaridade básica com tecnologia e acessarão a plataforma web,para consumir vídeos e materiais de estudo, no seu próprio ritmo.
+**Perfil:** Pessoas de todas as idades, desde jovens estudantes até adultos e idosos, com diferentes níveis de escolaridade e familiaridade com tecnologia. 
 
-- **Quem Ensinam:** Profissionais de diversas áreas, especialistas, aposentados com vasta experiência ou universitários que desejam compartilhar seus conhecimentos. Utilizarão a plataforma web para criar e publicar conteúdo didático, como videoaulas e materiais de apoio, que poderão ser acessados a qualquer momento.
+**Contexto:** Usuários que desejam aprender ou ensinar algo, seja por interesse pessoal, necessidade profissional ou hobby. 
+
+**Uso:** Acesso via computador ou smartphone, em casa, no trabalho ou em espaços comunitários, com possibilidade de aulas online ou presenciais. 
 
 
----
+
