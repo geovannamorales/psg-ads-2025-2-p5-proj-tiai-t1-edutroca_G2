@@ -14,14 +14,15 @@ Por outro lado, há também muitas pessoas que possuem conhecimentos valiosos e 
 
 O EduTroca resolve esse problema ao criar um ambiente virtual onde qualquer pessoa pode oferecer e participar de aulas, conectando quem quer ensinar com quem quer aprender, sem custos e com foco na colaboração. 
 
-## 1.2 Objetivos  
-Defina o **objetivo geral** (o que o projeto como um todo pretende) e pelo menos **2 objetivos específicos** (detalhes ou etapas importantes).
+## 1.2 Objetivos
 
->💡 *Exemplo:*  
-- **Geral:** Criar um sistema web para controle de estoque de hortifruti.  
-- **Específicos:**  
-  - Implementar controle de validade com alertas automáticos.  
-  - Gerar relatórios mensais de perdas e vendas.
+- **Objetivo Geral:** Desenvolver uma plataforma para conectar pessoas que desejam ensinar e aprender de forma gratuita.
+
+- **Objetivos Específicos:**
+  - Criar um ambiente virtual onde usuários possam se cadastrar para oferecer ou participar de aulas de seu interesse.
+  - Implementar um sistema que organize e categorize as áreas de conhecimento para facilitar a busca.
+  - Desenvolver um sistema de avaliação e feedback para que os usuários possam qualificar as aulas, garantindo a qualidade e a confiança na comunidade.
+
 
 ---
 
@@ -35,12 +36,13 @@ A necessidade de uma solução como o EduTroca é evidenciada pelo alto custo e 
 
 ---
 
-## 1.4 Público-Alvo  
-Descreva quem vai usar a solução.  
-- Perfil: idade, profissão, familiaridade com tecnologia.  
-- Contexto: onde e como vai usar.
+## 1.4 Público-Alvo
 
->💡 *Exemplo:*  
-"Pequenos comerciantes de hortifrutis, com conhecimentos básicos de informática, que precisam de uma ferramenta simples e rápida para controle de estoque."
+O público da plataforma é diverso e composto por dois grupos principais que se conectam através da troca de conhecimento:
+
+- **Quem Aprende:** Jovens estudantes, profissionais em busca de novas competências, ou qualquer pessoa curiosa que deseja aprender algo novo sem custo. Possuem familiaridade básica com tecnologia e acessarão a plataforma web,para consumir vídeos e materiais de estudo, no seu próprio ritmo.
+
+- **Quem Ensinam:** Profissionais de diversas áreas, especialistas, aposentados com vasta experiência ou universitários que desejam compartilhar seus conhecimentos. Utilizarão a plataforma web para criar e publicar conteúdo didático, como videoaulas e materiais de apoio, que poderão ser acessados a qualquer momento.
+
 
 ---
