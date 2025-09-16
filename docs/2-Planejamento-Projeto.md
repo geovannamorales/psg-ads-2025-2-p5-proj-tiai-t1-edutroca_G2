@@ -119,7 +119,7 @@ _O grupo poderá usar esta parte para informar a professora quais tarefas estão
 | Responsável | Função no Grupo | Tarefa | Início | Prazo | Status | Entrega |
 |-------------|------------------|--------|--------|--------|--------|---------|
 | AlunoY | Analista | Elaborar lista de requisitos funcionais e não funcionais | 19/08 | 23/08 | ❌ | — |
-| AlunaZ | UX Designer | Criar wireframes das principais telas do sistema | 20/08 | 27/08 | ❌ | — |
+| Débora | UX Designer | Criar wireframes das principais telas do sistema | 12/09 | 18/09 | ❌ | — |
 | AlunoK | Documentação | Escrever as histórias de usuário no README | 22/08 | 29/08 | ❌ | — |
 | AlunaX (Líder) | Revisão geral | Validar com o cliente os requisitos e protótipos | 30/08 | 06/09 | ❌ | — |
 | Todos | Contribuição coletiva | Inserir os links/imagens dos wireframes no GitHub | 04/09 | 06/09 | ❌ | — |
