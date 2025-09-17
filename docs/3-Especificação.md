@@ -15,16 +15,15 @@ Cada requisito deve representar uma característica única da solução e ser cl
 
 |ID     | Descrição do Requisito                                                                                            | Prioridade |
 |-------|-----------------------------------------------------------------------------------------------------------------|------------|
-|RF-01  | O sistema deve permitir que os usuários criem uma conta informando nome, e-mail, senha e endereço.                | ALTA       | 
-|RF-02  | O sistema deve permitir que os usuários adicionem produtos ao carrinho de compras.                                | MÉDIA      |
-|RF-03  | *(Descreva aqui o requisito funcional 3 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
-|RF-04  | *(Descreva aqui o requisito funcional 4 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
-|RF-05  | *(Descreva aqui o requisito funcional 5 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
-|RF-06  | *(Descreva aqui o requisito funcional 6 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
-|RF-07  | *(Descreva aqui o requisito funcional 7 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
-|RF-08  | *(Descreva aqui o requisito funcional 8 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
-|RF-09  | *(Descreva aqui o requisito funcional 9 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
-|RF-10  | *(Descreva aqui o requisito funcional 10 do seu sistema)*                                                       | *(Alta/Média/Baixa)*  |
+|RF-01  | O sistema deve permitir que os usuários criem uma conta informando nome, e-mail e senha.                        | ALTA       | 
+|RF-02  | O sistema deve permitir que os usuários recuperem sua senha caso a esqueçam.                                   | ALTA       |
+|RF-03  | Apenas usuários cadastrados podem acessar os conteúdos.                                                          | ALTA       |
+|RF-04  | O sistema deve permitir que os usuários gerenciem seu perfil, podendo editar foto, nome, áreas de interesse e informações de login. | MÉDIA      |
+|RF-05  | O sistema deve permitir que os usuários selecionem preferências de tipos de conteúdo.                             | MÉDIA      |
+|RF-06  | O sistema deve oferecer uma classificação de credibilidade de cada perfil.                                        | MÉDIA      |
+|RF-07  | O sistema deve permitir a publicação de conteúdos de dois tipos: vídeos e perguntas.                             | ALTA       |
+|RF-08  | O sistema deve permitir que os usuários busquem por conteúdos com base em filtros predefinidos.                    | ALTA       |
+|RF-09  | O sistema deve exibir conteúdos recomendados priorizando maior classificação de credibilidade e compatibilidade com os interesses do usuário. | MÉDIA |
 
 ---
 
