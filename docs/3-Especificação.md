@@ -15,16 +15,15 @@ Cada requisito deve representar uma característica única da solução e ser cl
 
 |ID     | Descrição do Requisito                                                                                            | Prioridade |
 |-------|-----------------------------------------------------------------------------------------------------------------|------------|
-|RF-01  | O sistema deve permitir que os usuários criem uma conta informando nome, e-mail, senha e endereço.                | ALTA       | 
-|RF-02  | O sistema deve permitir que os usuários adicionem produtos ao carrinho de compras.                                | MÉDIA      |
-|RF-03  | *(Descreva aqui o requisito funcional 3 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
-|RF-04  | *(Descreva aqui o requisito funcional 4 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
-|RF-05  | *(Descreva aqui o requisito funcional 5 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
-|RF-06  | *(Descreva aqui o requisito funcional 6 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
-|RF-07  | *(Descreva aqui o requisito funcional 7 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
-|RF-08  | *(Descreva aqui o requisito funcional 8 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
-|RF-09  | *(Descreva aqui o requisito funcional 9 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
-|RF-10  | *(Descreva aqui o requisito funcional 10 do seu sistema)*                                                       | *(Alta/Média/Baixa)*  |
+|RF-01  | O sistema deve permitir que os usuários criem uma conta informando nome, e-mail e senha.                        | ALTA       | 
+|RF-02  | O sistema deve permitir que os usuários recuperem sua senha caso a esqueçam.                                   | ALTA       |
+|RF-03  | Apenas usuários cadastrados podem acessar os conteúdos.                                                          | ALTA       |
+|RF-04  | O sistema deve permitir que os usuários gerenciem seu perfil, podendo editar foto, nome, áreas de interesse e informações de login. | MÉDIA      |
+|RF-05  | O sistema deve permitir que os usuários selecionem preferências de tipos de conteúdo.                             | MÉDIA      |
+|RF-06  | O sistema deve oferecer uma classificação de credibilidade de cada perfil.                                        | MÉDIA      |
+|RF-07  | O sistema deve permitir a publicação de conteúdos de dois tipos: vídeos e perguntas.                             | ALTA       |
+|RF-08  | O sistema deve permitir que os usuários busquem por conteúdos com base em filtros predefinidos.                    | ALTA       |
+|RF-09  | O sistema deve exibir conteúdos recomendados priorizando maior classificação de credibilidade e compatibilidade com os interesses do usuário. | MÉDIA |
 
 ---
 
@@ -74,29 +73,32 @@ Preencha o Quadro abaixo com os requisitos não funcionais que definem **caracte
 |-------|-----------------------------------------------------------------------------------------------------|-----------|
 |RNF-01 | O sistema deve carregar as páginas em até 3 segundos para garantir uma boa experiência ao usuário.  | MÉDIA     | 
 |RNF-02 | O sistema deve proteger as informações dos clientes por meio de criptografia e medidas de segurança.| ALTA      | 
-|RNF-03 | *(Descreva aqui o requisito não funcional 3 do seu sistema)*                                       | *(Alta/Média/Baixa)*  |
-|RNF-04 | *(Descreva aqui o requisito não funcional 4 do seu sistema)*                                       | *(Alta/Média/Baixa)*  |
-|RNF-05 | *(Descreva aqui o requisito não funcional 5 do seu sistema)*                                       | *(Alta/Média/Baixa)*  |
-|RNF-06 | *(Descreva aqui o requisito não funcional 6 do seu sistema)*                                       | *(Alta/Média/Baixa)*  |
+|RNF-03 | O sistema deve ser responsivo, adaptando-se a diferentes dispositivos (computadores, tablets e smartphones).                                     | ALTA  |
+|RNF-04 | O sistema deve estar disponível em pelo menos 95% do tempo, garantindo confiabilidade no acesso.                                       | ALTA  |
+|RNF-05 | O sistema deve ser compatível com os navegadores mais utilizados (Chrome, Firefox, Edge e Safari).                                      | MÉDIA |
+|RNF-06 | O sistema deve realizar backup automático do banco de dados diariamente para evitar perda de informações.                                       | ALTA  |
+|RNF-07 | O sistema deve apresentar interface intuitiva e acessível, seguindo recomendações de acessibilidade digital (WCAG).                                       | MÉDIA  |
+|RNF-08 | O tempo de busca por aulas ou usuários deve ser de no máximo 2 segundos.                                      | MÉDIA  |
+|RNF-09 | O sistema deve permitir fácil manutenção e evolução, adotando boas práticas de programação e versionamento (Git).                                       | MÉDIA  |
+|RNF-10 | O sistema deve suportar até 200 usuários simultâneos sem degradação perceptível de desempenho.                                       | ALTA  |
+|RNF-11 | O sistema deve exibir mensagens de erro claras e não técnicas em caso de falha.                                       | BAIXA  |
+|RNF-12 | O sistema deve ser desenvolvido em arquitetura modular, facilitando a adição de novas funcionalidades.                                       | MÉDIA  |
 
 ---
 
-## 3.4 Restrições do Projeto
+## 3.4 Restrições do Projeto – EduTroca
 
-> Restrições são limitações externas impostas ao projeto que devem ser rigorosamente obedecidas durante o desenvolvimento. Elas podem estar relacionadas a prazos, tecnologias obrigatórias ou proibidas, ambiente de execução, normas legais ou políticas internas da organização. Diferente dos requisitos não funcionais, que indicam características desejadas do sistema, as restrições determinam limites fixos que influenciam as decisões de projeto.
 
-O Quadro abaixo deve ser preenchida com as restrições específicas que **impactam seu projeto**. Caso não haja alguma restrição adicional além das já listadas, mantenha a tabela conforme está.
-
-| ID  | Restrição                                                              |
-|------|-----------------------------------------------------------------------|
-| R-01   | O projeto deverá ser entregue até o final do semestre.              |
-| R-02   | O sistema deve funcionar apenas dentro da rede interna da empresa.  |
-| R-03   | O software deve ser compatível com Windows e Linux.                 |
-| R-04   | *(Descreva aqui a restrição 4 do seu projeto)*                      |
-| R-05   | *(Descreva aqui a restrição 5 do seu projeto)*                      |
-| R-06   | *(Descreva aqui a restrição 6 do seu projeto)*                      |
-| R-07   | *(Descreva aqui a restrição 7 do seu projeto)*                      |
-| R-08   | *(Descreva aqui a restrição 8 do seu projeto)*                      |
+| ID   | Restrição                                                                 |
+|------|----------------------------------------------------------------------------|
+| R-01 | O projeto deverá ser entregue até o final do semestre.                     |
+| R-02 | O sistema deve funcionar apenas dentro da rede interna da empresa.         |
+| R-03 | O software deve ser compatível com Windows e Linux.                        |
+| R-04 | O sistema deve ser desenvolvido utilizando tecnologias web responsivas.    |
+| R-05 | A plataforma deve estar disponível 24/7, salvo períodos de manutenção.     |
+| R-06 | O acesso ao sistema só poderá ser feito mediante autenticação segura.      |
+| R-07 | Não é permitido integrar métodos de pagamento, já que não envolve dinheiro.|
+| R-08 | Alterações no escopo após o início do semestre só poderão ser aprovadas pelo professor/orientador. |
 
 ---
 ## 3.5 Regras de Negócio
@@ -117,14 +119,18 @@ O Quadro abaixo deve ser preenchida com as restrições específicas que **impac
 
  A tabela abaixo deve ser preenchida com as regras de negócio que **impactam seu projeto**. Os textos no quadro são apenas ilustrativos.
 
-|ID    | Regra de Negócio                                                       |
-|-------|-----------------------------------------------------------------------|
-|RN-01 | Usuário só pode cadastrar até 10 tarefas por dia.                      |
-|RN-02 | Apenas administradores podem alterar permissões de usuários.           |
-|RN-03 | Tarefas vencidas devem ser destacadas em vermelho no sistema.          |
-|RN-04 | *(Descreva aqui a restrição 4 do seu projeto)*                         |
-|RN-05 | *(Descreva aqui a restrição 5 do seu projeto)*                         |
-
+| ID    | Regra de Negócio                                                                 | Justificativa/Objetivo                                                                 |
+|-------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| RN-01 | Somente usuários cadastrados podem acessar e publicar conteúdos.                  | Garantir segurança e controle de acesso à comunidade.                                  |
+| RN-02 | Cada conteúdo publicado gera créditos que podem ser usados para consumir outros. | Incentivar a colaboração e troca de conhecimento.                                     |
+| RN-03 | O sistema deve atribuir pontos e níveis de reconhecimento por engajamento.       | Estimular gamificação e participação ativa dos usuários.                              |
+| RN-04 | O usuário só poderá acessar conteúdos se possuir créditos suficientes.           | Manter equilíbrio no uso da plataforma e incentivar contribuição.                     |
+| RN-05 | Os vídeos publicados ficam disponíveis sem necessidade de agendamento.           | Facilitar acesso contínuo ao conteúdo e promover flexibilidade de aprendizado.         |
+| RN-06 | A plataforma deve ser simples e acessível a todos.                               | Promover inclusão digital e garantir usabilidade.                                      |
+| RN-07 | Usuários devem interagir de forma respeitosa; conteúdos ofensivos são proibidos. | Manter ambiente saudável, ético e seguro na comunidade.                               |
+| RN-08 | A plataforma não prioriza usuários específicos; relevância define a visibilidade.| Garantir imparcialidade e justiça na recomendação de conteúdos.                       |
+| RN-09 | Créditos não podem ser convertidos em dinheiro real.                             | Evitar uso comercial indevido e manter o foco educacional da plataforma.              |
+| RN-10 | Dados dos usuários devem ser tratados de forma segura.                           | Atender a requisitos legais de privacidade e garantir confiança dos participantes.     |
 💡 **Dica:** Explique sempre o motivo ou impacto da regra no sistema.
 
 ---
