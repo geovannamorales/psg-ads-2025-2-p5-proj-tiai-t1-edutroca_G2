@@ -1,99 +1,80 @@
 # 2. Planejamento do Projeto
 
-Esta seção apresenta como o grupo organizou o trabalho ao longo do semestre, com as tarefas distribuídas por Sprints. O objetivo é facilitar o acompanhamento do progresso e a colaboração entre os membros.
-
----
+O desenvolvimento do projeto foi organizado em Sprints, permitindo a divisão das entregas em etapas menores e bem definidas.  
+Cada Sprint possui um objetivo principal e produtos esperados, garantindo que o grupo consiga acompanhar o progresso e manter a colaboração de forma contínua.  
+Esse planejamento busca assegurar a entrega gradual da solução, desde a definição do contexto e requisitos até a implementação final e apresentação do sistema.
 
 ## 2.1 Sprints do Projeto 
 
-O projeto será realizado em **4 sprints**, cada uma com foco específico:
+## Planejamento das Sprints
 
-| Sprint         | Objetivo                                                                                 | Produtos Esperados                               |
-|----------------|------------------------------------------------------------------------------------------|--------------------------------------------------|
-| **Sprint 1**   | Entrevista com a empresa e contextualização do problema                                | Preenchimento da introdução e contextualização no `README.md` |
-| **Sprint 2**   | Levantamento de requisitos e criação de protótipos                                     | Quadro de requisitos (funcionais e não funcionais), personas e wireframes |
-| **Sprint 3**   | Desenvolvimento da ferramenta e preparação para apresentação parcial                    | Primeira versão funcional do sistema + Apresentação Parcial |
-| **Sprint 4**   | Finalização do sistema, testes, apresentação final e relatório no sistema APC           | Versão final do sistema + Apresentação Final + Relatório Individual no APC dentro do SGA |
+| Sprint | Objetivo Principal |
+|--------|--------------------|
+| Sprint 1 | Documentação de contexto do projeto (introdução, justificativa e visão geral) |
+| Sprint 2 | Definição dos requisitos, levantamento de personas e elaboração de wireframes |
+| Sprint 3 | Criação dos diagramas de arquitetura e classes + início do desenvolvimento |
+| Sprint 4 | Implementação da solução final, testes e preparação para as apresentações 
 
----
 
 ## Organização da Equipe por Sprint
 
-Durante o projeto, um integrante será escolhido como **Líder do Grupo** em cada sprint. Os demais membros poderão assumir papéis como:
-
-- **Front-end**: responsável pelas interfaces com o usuário (HTML, CSS, JS)
-- **Back-end**: responsável pela lógica de programação e banco de dados
-- **Apoio Geral**: cuida da documentação, testes e suporte à equipe
-
-> ✏️ _Preencha com os papéis escolhidos pelo seu grupo em cada sprint:_
-
-### Exemplo – da Definição dos Papéis na Sprint 1, Sprint 2, Sprint 3 e Sprint 4
-
-- **Líder do Grupo**: Richard Luiz
+- **Líder do Grupo**: Richard Oliveira
 - **Front-end**: Debora Fonseca e Geovanna Morales
 - **Back-end**: Antônio Bertolini
 - **Apoio Geral**: Adrielly Julião  
 
-> ✏️ _Se necessário podem alterar os papéis em CADA Sprint, mas você deverá informar repetindo o quadro anterior e separar por Sprint_
----
 
 ## 2.2 Planejamento de Sprints – Projeto de Extensão Universitária
 
-## 2.2.1 Quadro de Tarefas (Kanban do GitHub)
+### Cronograma e Entregas
 
-A divisão de tarefas e o acompanhamento da execução serão feitos utilizando o **Kanban do GitHub**, já disponível na aba **Projects** do repositório (template-base).  
-O quadro está organizado em colunas que representam as etapas do fluxo de trabalho:
-
-- **A Fazer**: tarefas pendentes de início.  
-- **Desenvolver**: tarefas em andamento.  
-- **Fila para Teste**: tarefas finalizadas no desenvolvimento e aguardando testes.  
-- **Teste**: tarefas em validação.  
-- **Feito**: tarefas concluídas.
-- <img width="1581" height="675" alt="image" src="https://github.com/user-attachments/assets/ddcb01b9-c459-48df-a817-b9dc0acfeed0" />
-
-
-> **Importante:** A coluna *Implantar* não será utilizada neste trabalho, pois não faz parte do escopo do Projeto Extensão, mas caso o aluno resolva implantar na empresa/ONG para o qual desenvolveu, gentileza informar no quadro Kanban.
-
-**PARA CADA SPRINT:**
-1. Registre todas as tarefas na coluna **A Fazer**.  
-2. Movimente os cartões conforme o andamento do trabalho.  
-3. Mantenha atualizado o **responsável**, a **descrição** e o **prazo** em cada cartão.  
-4. Ao final da sprint, arquive o projeto/board para manter o histórico.
-
-> **_📌Exemplo de uso no GitHub Kanban:📌_**  
-> - **A Fazer**: Criar página de login (Responsável: AlunoY, Prazo: 10/09).  
-> - **Desenvolver**: Implementar CSS unificado (Responsável: AlunaZ, Prazo: 15/09).  
-> - **Teste**: Validar script de login (Responsável: AlunoK, Prazo: 20/10).  
-
+| Semana | Data       | Atividade / Sprint                                      | Produtos / Entregas                                      
+|--------|-----------|----------------------------------------------------------|----------------------------------------------------------|
+| 1      | 07/08     | Apresentação do conteúdo programático + Aula Introdutória | -                                                        | 
+| 2      | 14/08     | Definição dos temas e dos grupos via Fórum                | Tema definido + Formação dos Grupos                      | 
+| 3      | 21/08     | Aprovação dos temas e grupos + Criação do Git Classroom   | GitHub Classroom configurado                             | 
+| 4      | 28/08     | **Sprint 1: Documentação de Contexto**                    | Introdução + Contextualização do problema (README.md)    | 
+| 5      | 04/09     | **Sprint 2: Definição dos Requisitos**                    | Início do levantamento de requisitos                     | 
+| 6      | 11/09     | **Sprint 2: Definição dos Requisitos**                    | Continuação do levantamento de requisitos                | 
+| 7      | 18/09     | **Entrega Sprint 2**                                      | Quadro de requisitos, Personas, Wireframes               | 
+| 8      | 25/09     | **Sprint 3: Diagramas de Arquitetura e de Classes**       | Modelagem inicial                                        | 
+| 9      | 02/10     | **Sprint 3: Diagramas de Arquitetura e de Classes**       | Refinamento dos diagramas                                | 
+| 10     | 09/10     | **Entrega Sprint 3**                                      | Diagramas Arquitetura + Classes                          | 
+| 11     | 16/10     | **Sprint 4: Implementação da solução proposta**           | Início do desenvolvimento                                | 
+| 12     | 23/10     | **Sprint 4: Implementação da solução proposta**           | Desenvolvimento do sistema                               | 
+| 13     | 30/10     | **Sprint 4: Implementação da solução proposta**           | Continuação da implementação                             | 
+| 14     | 06/11     | **Sprint 4: Implementação da solução proposta**           | Funcionalidades principais                               | 
+| 15     | 13/11     | Apresentação Parcial da Sprint 4                          | Primeira versão funcional + Apresentação Parcial         | 
+| 16     | 20/11     | Apresentação Parcial da Sprint 4                          | Refinamento + Feedback                                   | 
+| 17     | 27/11     | Finalização da Sprint 4                                   | Versão final + Preparação da apresentação final          |
+| 18     | 27/11     | **Entrega Final do Projeto**                              | Versão final + Relatório Individual + Avaliação por Pares| 
+| 19     | 11/12     | **Apresentação Final do Projeto**                         | Apresentação pública do sistema                          | 
 
 ---
+
+### 🎯 Objetivos de Cada Sprint
+
+| Sprint   | Objetivo                                                      | Produtos Esperados                                               |
+|----------|---------------------------------------------------------------|------------------------------------------------------------------|
+| Sprint 1 | Documentar o contexto e justificar a proposta inovadora        | Introdução + Contextualização no README.md                       |
+| Sprint 2 | Levantamento de requisitos e criação de protótipos             | Quadro de requisitos (funcionais e não funcionais), Personas e Wireframes |
+| Sprint 3 | Desenvolvimento da arquitetura do sistema                     | Diagramas de Arquitetura e de Classes                            |
+| Sprint 4 | Implementação do sistema, testes e apresentações              | Versão final funcional + Apresentação Parcial + Apresentação Final + Relatório Individual |
+
+
+## 2.2.1 Quadro de Tarefas (Kanban do GitHub)
+
+Estabelecemos um planejamento a fim de descontinuar o acompanhamento do projeto no kanban. 
+
 
 ## 2.2.1.1 Modelo de Sprint: 4 Kanbans no template-base (Kanban do GitHub)
 
-Recomenda-se criar **um board (Kanban) para cada sprint** no repositório template, assim cada aluno recebe os 4 quadros prontos ao clonar o repositório via GitHub Classroom.
+Estabelecemos um planejamento a fim de descontinuar o acompanhamento do projeto no kanban. 
 
-### Nomes sugeridos dos boards
-- `Sprint 1 — Kanban`  
-- `Sprint 2 — Kanban`  
-- `Sprint 3 — Kanban`  
-- `Sprint 4 — Kanban`
-
-### Estrutura de cada board
-- Colunas: **A Fazer** | **Desenvolver** | **Fila para Teste** | **Teste** | **Feito**  
-- Cada cartão deve conter: título curto, descrição com subtarefas (se houver), responsável, label (ex.: front, back, doc, teste), data de início e prazo.
-
----
 
 ## 2.2.2 Quadro de Tarefas (Kanban dentro deste documento)
-_O grupo poderá usar esta parte para informar a professora quais tarefas estão sendo desenvolvidas, caso não tenham gostado de utilizar o Kanban do GitHub._
 
-### 📋 Legenda para o Status do Quadro de Tarefas
-
-                **Legenda:**
-                - ✔️ Concluído
-                - 📝 Em andamento
-                - ⌛ Atrasado
-                - ❌ Não iniciado
+Estabelecemos um planejamento a fim de descontinuar o acompanhamento do projeto no kanban. 
 
 --- 
 ### 🟢 Sprint 1 – Entendimento do Problema e Proposta de Solução  
@@ -119,10 +100,10 @@ _O grupo poderá usar esta parte para informar a professora quais tarefas estão
 | Responsável | Função no Grupo | Tarefa | Início | Prazo | Status | Entrega |
 |-------------|------------------|--------|--------|--------|--------|---------|
 | Antônio Bertolini | Analista | Elaborar lista de requisitos funcionais | 04/09 | 18/09 | ✔️ | README.md |
-| Débora Fonseca | UX Designer | Criar wireframes das principais telas do sistema | 12/09 | 18/09 | 📝 | — |
-| AlunoK | Documentação | Escrever as histórias de usuário no README | 22/08 | 29/08 | ❌ | — |
-| AlunaX (Líder) | Revisão geral | Validar com o cliente os requisitos e protótipos | 30/08 | 06/09 | ❌ | — |
-| Todos | Contribuição coletiva | Inserir os links/imagens dos wireframes no GitHub | 04/09 | 06/09 | ❌ | — |
+| Débora Fonseca | UX Designer | Criar wireframes das principais telas do sistema | 12/09 | 18/09 | ✔️ | — |
+| Geovanna e Adrielly | Documentação | Escrever as histórias de usuário no README | 22/08 | 29/08 | ✔️| — |
+| Richard (Líder) | Revisão geral | Validar com o cliente os requisitos e protótipos | 30/08 | 06/09 | ✔️ | — |
+| Todos | Contribuição coletiva | Inserir os links/imagens dos wireframes no GitHub | 04/09 | 06/09 | ✔️ | — |
 
 ---
 
