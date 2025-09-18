@@ -80,22 +80,19 @@ Preencha o Quadro abaixo com os requisitos não funcionais que definem **caracte
 
 ---
 
-## 3.4 Restrições do Projeto
+## 3.4 Restrições do Projeto – EduTroca
 
-> Restrições são limitações externas impostas ao projeto que devem ser rigorosamente obedecidas durante o desenvolvimento. Elas podem estar relacionadas a prazos, tecnologias obrigatórias ou proibidas, ambiente de execução, normas legais ou políticas internas da organização. Diferente dos requisitos não funcionais, que indicam características desejadas do sistema, as restrições determinam limites fixos que influenciam as decisões de projeto.
 
-O Quadro abaixo deve ser preenchida com as restrições específicas que **impactam seu projeto**. Caso não haja alguma restrição adicional além das já listadas, mantenha a tabela conforme está.
-
-| ID  | Restrição                                                              |
-|------|-----------------------------------------------------------------------|
-| R-01   | O projeto deverá ser entregue até o final do semestre.              |
-| R-02   | O sistema deve funcionar apenas dentro da rede interna da empresa.  |
-| R-03   | O software deve ser compatível com Windows e Linux.                 |
-| R-04   | *(Descreva aqui a restrição 4 do seu projeto)*                      |
-| R-05   | *(Descreva aqui a restrição 5 do seu projeto)*                      |
-| R-06   | *(Descreva aqui a restrição 6 do seu projeto)*                      |
-| R-07   | *(Descreva aqui a restrição 7 do seu projeto)*                      |
-| R-08   | *(Descreva aqui a restrição 8 do seu projeto)*                      |
+| ID   | Restrição                                                                 |
+|------|----------------------------------------------------------------------------|
+| R-01 | O projeto deverá ser entregue até o final do semestre.                     |
+| R-02 | O sistema deve funcionar apenas dentro da rede interna da empresa.         |
+| R-03 | O software deve ser compatível com Windows e Linux.                        |
+| R-04 | O sistema deve ser desenvolvido utilizando tecnologias web responsivas.    |
+| R-05 | A plataforma deve estar disponível 24/7, salvo períodos de manutenção.     |
+| R-06 | O acesso ao sistema só poderá ser feito mediante autenticação segura.      |
+| R-07 | Não é permitido integrar métodos de pagamento, já que não envolve dinheiro.|
+| R-08 | Alterações no escopo após o início do semestre só poderão ser aprovadas pelo professor/orientador. |
 
 ---
 ## 3.5 Regras de Negócio
