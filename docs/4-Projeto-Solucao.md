@@ -38,17 +38,32 @@ Eles ajudam a planejar, comunicar ideias e validar a interface com antecedência
 - **Wireframe** → simples, sem cores ou imagens detalhadas; foca na estrutura e posicionamento.  
 - **Mockup** → mais próximo do visual final, com cores, fontes e imagens, mas sem interatividade completa.
 
-**Exemplo de wireframe:**
-![Exemplo de Wireframe](images/wireframe-example.png)
-
-📌 **Entrega:** incluir imagens ou links para os wireframes/mockups.
-
-**Wireframe 1 — Tela Principal**  
-*(inserir imagem ou diagrama)*
+**Wireframe 1 — Tela Welcome** 
+![Welcome](https://github.com/user-attachments/assets/1e5a3127-d631-4c9f-8249-37eeb58920d2)
 
 **Wireframe 2 — Tela de Login**  
-*(inserir imagem ou diagrama)*
+![Login](https://github.com/user-attachments/assets/9bfa9fc6-dbac-48f3-a7b8-5de856216243)
 
+**Wireframe 3 — Tela Cadastro**  
+![Cadastro](https://github.com/user-attachments/assets/1f1321c2-e04c-4d93-a7a6-36c4290a6c8c)
+
+**Wireframe 4 — Tela Principal**  
+![Home](https://github.com/user-attachments/assets/0b2dc476-796e-4d11-95d1-9ab615f0749e)
+
+**Wireframe 5 — Tela Video_1** 
+![Video_1](https://github.com/user-attachments/assets/fe150193-5446-4785-95af-66106d7ec5bc)
+
+**Wireframe 6 — Tela Video_2** 
+![Video_2](https://github.com/user-attachments/assets/a9d05522-a221-446c-8428-434db58010f4)
+
+**Wireframe 7 — Tela Pergunta_1** 
+![Pergunta_1](https://github.com/user-attachments/assets/4e1718b1-1066-42c4-8095-cc104b150b27)
+
+**Wireframe 8 — Tela Pergunta_2** 
+![Pergunta_2](https://github.com/user-attachments/assets/334aebe5-55a9-4d17-9fd8-f4523fd9da07)
+
+**Wireframe 9 — Tela Perfil** 
+![Perfil](https://github.com/user-attachments/assets/4e20f17b-98b6-47b4-b33f-93677a9e6549)
 
 ---
 **UML**
