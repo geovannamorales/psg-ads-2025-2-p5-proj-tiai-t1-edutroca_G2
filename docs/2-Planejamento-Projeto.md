@@ -100,10 +100,11 @@ Estabelecemos um planejamento a fim de descontinuar o acompanhamento do projeto 
 | Responsável | Função no Grupo | Tarefa | Início | Prazo | Status | Entrega |
 |-------------|------------------|--------|--------|--------|--------|---------|
 | Antônio Bertolini | Analista | Elaborar lista de requisitos funcionais | 04/09 | 18/09 | ✔️ | README.md |
-| Débora Fonseca | UX Designer | Criar wireframes das principais telas do sistema | 12/09 | 18/09 | ✔️ |Figma|
-| Geovanna e Adrielly | Documentação | Escrever as histórias de usuário no README | 22/08 | 29/08 | ✔️|README.md |
-| Richard (Líder) | Revisão geral | Validar com o cliente os requisitos e protótipos | 30/08 | 06/09 | ✔️ | README.md |
-| Todos | Contribuição coletiva | Inserir os links/imagens dos wireframes no GitHub | 04/09 | 06/09 | ✔️ | README.md |
+| Débora Fonseca | UX Designer | Criar wireframes das principais telas do sistema | 18/09 | 18/09 | ✔️ | README.md|
+| Geovanna | Documentação | Escrever as histórias de usuário no README | 22/08 | 18/09 | ✔️|README.md |
+| Richard (Líder) | Revisão geral | Validar com o cliente os requisitos e protótipos | 18/09 | 06/09 | ✔️ | README.md |
+| Adrielly | Analista | Elaborar lista de requisitos não funcionais | 04/09 | 18/09 | ✔️ | README.md |
+| Todos | Contribuição coletiva | Inserir os links/imagens dos wireframes no GitHub | 04/09 | 18/09 | ✔️ | README.md |
 
 ---
 
