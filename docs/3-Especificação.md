@@ -73,10 +73,16 @@ Preencha o Quadro abaixo com os requisitos não funcionais que definem **caracte
 |-------|-----------------------------------------------------------------------------------------------------|-----------|
 |RNF-01 | O sistema deve carregar as páginas em até 3 segundos para garantir uma boa experiência ao usuário.  | MÉDIA     | 
 |RNF-02 | O sistema deve proteger as informações dos clientes por meio de criptografia e medidas de segurança.| ALTA      | 
-|RNF-03 | *(Descreva aqui o requisito não funcional 3 do seu sistema)*                                       | *(Alta/Média/Baixa)*  |
-|RNF-04 | *(Descreva aqui o requisito não funcional 4 do seu sistema)*                                       | *(Alta/Média/Baixa)*  |
-|RNF-05 | *(Descreva aqui o requisito não funcional 5 do seu sistema)*                                       | *(Alta/Média/Baixa)*  |
-|RNF-06 | *(Descreva aqui o requisito não funcional 6 do seu sistema)*                                       | *(Alta/Média/Baixa)*  |
+|RNF-03 | O sistema deve ser responsivo, adaptando-se a diferentes dispositivos (computadores, tablets e smartphones).                                     | ALTA  |
+|RNF-04 | O sistema deve estar disponível em pelo menos 95% do tempo, garantindo confiabilidade no acesso.                                       | ALTA  |
+|RNF-05 | O sistema deve ser compatível com os navegadores mais utilizados (Chrome, Firefox, Edge e Safari).                                      | MÉDIA |
+|RNF-06 | O sistema deve realizar backup automático do banco de dados diariamente para evitar perda de informações.                                       | ALTA  |
+|RNF-07 | O sistema deve apresentar interface intuitiva e acessível, seguindo recomendações de acessibilidade digital (WCAG).                                       | MÉDIA  |
+|RNF-08 | O tempo de busca por aulas ou usuários deve ser de no máximo 2 segundos.                                      | MÉDIA  |
+|RNF-09 | O sistema deve permitir fácil manutenção e evolução, adotando boas práticas de programação e versionamento (Git).                                       | MÉDIA  |
+|RNF-10 | O sistema deve suportar até 200 usuários simultâneos sem degradação perceptível de desempenho.                                       | ALTA  |
+|RNF-11 | O sistema deve exibir mensagens de erro claras e não técnicas em caso de falha.                                       | BAIXA  |
+|RNF-12 | O sistema deve ser desenvolvido em arquitetura modular, facilitando a adição de novas funcionalidades.                                       | MÉDIA  |
 
 ---
 
